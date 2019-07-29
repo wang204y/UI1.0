@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/UI1.0.iml" filepath="$PROJECT_DIR$/.idea/UI1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyinstaller/.idea/pyinstaller.iml" filepath="$PROJECT_DIR$/../pyinstaller/.idea/pyinstaller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../膜系统设计软件V1/.idea/膜系统设计软件V1.iml" filepath="$PROJECT_DIR$/../膜系统设计软件V1/.idea/膜系统设计软件V1.iml" />
+    </modules>
+  </component>
+</project>

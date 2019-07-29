@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="aaa">
+    <file>resource/RO_pic.jpg</file>
+    <file>resource/1-1.JPG</file>
+    <file>resource/2-1.JPG</file>
+    <file>resource/emem_logo2.jpg</file>
+    <file>resource/tclogo.JPG</file>
+    <file>resource/background.jpg</file>
+    <file>resource/logo.jpg</file>
+  </qresource>
+</RCC>

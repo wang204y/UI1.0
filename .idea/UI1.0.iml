@@ -6,6 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="pyinstaller" />
     <orderEntry type="module" module-name="膜系统设计软件V1" />
+    <orderEntry type="module" module-name="练习作业" />
+    <orderEntry type="module" module-name="know" />
+    <orderEntry type="module" module-name="PycharmProjects" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

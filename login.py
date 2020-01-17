@@ -11,8 +11,8 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QApplication,QMainWindow,QWidget
 from PyQt5.QtGui import QMovie
 import os
-
-
+#import emss0726
+import start
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -127,8 +127,9 @@ class Ui_MainWindow(object):
         self.toolBar_2.setWindowTitle(_translate("MainWindow", "toolBar_2"))
 
     def button1(self):
-        if  self.lineEdit.text() == 'admin' and  self.lineEdit_2.text() == 'tc123456':
-            os.system("python emss0726.py")
+        if  self.lineEdit.text() == 'a' and  self.lineEdit_2.text() == '1':
+            myUi1= start.Ui()    # 建立登录后的类中实例
+            myUi1.setupUi(myDlg)               #将实例装入窗口显示
 
         else:
             self.lineEdit.clear()
